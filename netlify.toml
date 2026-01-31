@@ -3,7 +3,7 @@
   publish = "."
 
 [functions]
-  included_files = ["main.py"]
+  directory = "functions"
 
 [[redirects]]
   from = "/api/*"
